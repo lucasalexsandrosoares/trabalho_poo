@@ -72,4 +72,15 @@ public class Caneta{
 	}
 }
 ```
+**Palavra reservada public/private**
 
+Public: Qualquer método pode ser acessado a partir de outra classe.
+
+Private: Um método pode ser acessado somente dentro da própria classe.
+
+```java
+public class Caneta{
+	public String modelo;
+	private float ponta;
+}
+```
