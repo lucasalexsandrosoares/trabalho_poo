@@ -32,3 +32,20 @@ public class Caneta {
  ```java
  Caneta c1 = new Caneta();
 ```
+**Palavra reserva instanceof**
+
+Determina se um objeto é a instância de uma classe, super classe ou interface.
+
+Exemplo:
+
+**Encapsulamento**
+
+**Palavra reservada thi** 
+
+Referência ao próprio objeto chamado.
+
+Exemplo:
+
+```java
+
+
