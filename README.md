@@ -84,3 +84,24 @@ public class Caneta{
 	private float ponta;
 }
 ```
+**Assinatura de método**
+
+**Sobrecarga de método**
+
+**Escopo de classe**
+
+**Escopo de objeto**
+
+**Palavra reservada final**
+
+**Relacionamento de dependência**
+
+Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe(método da classe).
+
+**Relacionamento de Agregação** 
+
+Uma classe A agrega valores da outra classe B, relação todo parte, quando parte existe sem o todo(atributo classe).
+
+**Relacionamento de Composição** 
+
+Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo(atributo classe).	
