@@ -40,12 +40,15 @@ Exemplo:
 
 **Encapsulamento**
 
-**Palavra reservada thi** 
+**Palavra reservada this** 
 
 Referência ao próprio objeto chamado.
 
 Exemplo:
 
 ```java
-
+void tampar() {
+	this.tampada = true;
+}
+```
 
