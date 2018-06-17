@@ -24,6 +24,7 @@ public class Caneta {
  new
  ```
  **Palavra reserva new**
+ 
  Usada para instaciar um objeto.
  
  Exemplo:
