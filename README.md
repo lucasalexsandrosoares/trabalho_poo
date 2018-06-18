@@ -102,6 +102,20 @@ Exemplo:
 
 **Sobrecarga de método**
 
+Consiste em criarmos o mesmo método com possibilidades de entradas diferentes. Essas entradas, caracterizadas como parâmetros, devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
+
+Exemplo:
+
+```java
+public class Calculadora {
+	public int soma(int num1, int num2) {
+		return num1 + num2;
+	}
+	public double soma(double num1, double num2) {
+		return num1 + num2;
+	}
+}
+```
 **Escopo de classe**
 
 **Escopo de objeto**
