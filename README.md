@@ -86,6 +86,8 @@ Public: Qualquer método pode ser acessado a partir de outra classe.
 
 Private: Um método pode ser acessado somente dentro da própria classe.
 
+Exemplo:
+
 ```java
 public class Caneta{
 	public String modelo;
@@ -93,6 +95,10 @@ public class Caneta{
 }
 ```
 **Assinatura de método**
+
+É formada pelo seu nome e pelo tipo, quantidade e ordem de seus parâmetros. 
+
+Exemplo:
 
 **Sobrecarga de método**
 
