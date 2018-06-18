@@ -112,7 +112,7 @@ public void setLivro(String livro){
 
 ## Sobrecarga de método
 
-Consiste em criarmos o mesmo método com possibilidades de entradas diferentes. Essas entradas, caracterizadas como parâmetros, devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
+Consiste em criar o mesmo método com possibilidades de parâmetros diferentes. Esses parâmetros, devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
 
 Exemplo:
 
