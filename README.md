@@ -48,6 +48,8 @@ if(g instanceof Gato) {
 ```
 ## Encapsulamento
 
+É uma técnica de modelagem e implementação que separa os aspectos externos de um objeto dos detalhes internos de implementação do mesmo objeto. 
+
 ## Palavra reservada this
 
 Referência ao próprio objeto chamado.
