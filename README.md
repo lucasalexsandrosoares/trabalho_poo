@@ -100,8 +100,6 @@ public class Caneta{
 
 É formada pelo seu nome e pelo tipo, quantidade e ordem de seus parâmetros. 
 
-Exemplo:
-
 **Sobrecarga de método**
 
 Consiste em criarmos o mesmo método com possibilidades de entradas diferentes. Essas entradas, caracterizadas como parâmetros, devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
