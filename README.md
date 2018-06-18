@@ -94,6 +94,8 @@ public class Caneta{
 	private float ponta;
 }
 ```
+![exemplo public e private](https://user-images.githubusercontent.com/40281699/41544742-d6889ec4-72ef-11e8-8367-ba9bcf88dc0b.PNG)
+
 **Assinatura de método**
 
 É formada pelo seu nome e pelo tipo, quantidade e ordem de seus parâmetros. 
