@@ -120,6 +120,10 @@ public class Calculadora {
 
 **Escopo de objeto**
 
+É o limite que um objeto pode manipular, enxergar, visualizar, ou acessar os seus atributos ou métodos dando ou não permissão.
+
+Exemplo:
+
 **Palavra reservada final**
 
 **Relacionamento de dependência**
