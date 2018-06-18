@@ -146,6 +146,11 @@ Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra cl
 
 Uma classe A agrega valores da outra classe B, relação todo parte, quando parte existe sem o todo(atributo classe).
 
+Exemplo:
+
+![agregacao](https://user-images.githubusercontent.com/40281699/41540458-b5768dd0-72e6-11e8-89b8-287c9f0ba842.PNG)
+
+
 **Relacionamento de Composição** 
 
 Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo(atributo classe).	
