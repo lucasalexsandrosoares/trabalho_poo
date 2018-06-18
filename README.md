@@ -154,3 +154,8 @@ Exemplo:
 ## Relacionamento de Composição
 
 Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo(atributo classe).	
+
+Exemplo:
+
+![composicao](https://user-images.githubusercontent.com/40281699/41564394-071667c2-7329-11e8-811c-ee1ce7b968fd.PNG)
+
