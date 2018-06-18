@@ -126,6 +126,8 @@ Exemplo:
 
 **Palavra reservada final**
 
+Torna impossível estender uma classe, sobrepor um método ou reiniciar uma variável.
+
 **Relacionamento de dependência**
 
 Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe(método da classe).
