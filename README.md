@@ -1,5 +1,5 @@
 # trabalho_poo
-**Construtor**
+## Construtor
 
 Criação de um objeto dentro da classe.
 
@@ -16,14 +16,14 @@ public class Caneta {
 	}
 }
 ```
-**Instaciação**
+## Instaciação
  
  Ação de criar um objeto.
  
  ```java
  new
  ```
- **Palavra reserva new**
+ ## Palavra reserva new
  
  Usada para instaciar um objeto.
  
@@ -32,7 +32,7 @@ public class Caneta {
  ```java
  Caneta c1 = new Caneta();
 ```
-**Palavra reserva instanceof**
+## Palavra reserva instanceof
 
 Determina se um objeto é a instância de uma classe, super classe ou interface.
 
@@ -46,9 +46,9 @@ if(g instanceof Gato) {
 	System.out.println("é do tipo Gato");
 }
 ```
-**Encapsulamento**
+## Encapsulamento
 
-**Palavra reservada this** 
+## Palavra reservada this
 
 Referência ao próprio objeto chamado.
 
@@ -59,7 +59,7 @@ void tampar() {
 	this.tampada = true;
 }
 ```
-**Getters/Setters**
+## Getters/Setters
 
 Getters: É um método para acessar alguma informação do atributo. 
 
@@ -80,7 +80,7 @@ public class Caneta{
 	}
 }
 ```
-**Palavra reservada public/private**
+## Palavra reservada public/private
 
 Public: Qualquer método pode ser acessado a partir de outra classe.
 
@@ -96,11 +96,11 @@ public class Caneta{
 ```
 ![exemplo public e private](https://user-images.githubusercontent.com/40281699/41544742-d6889ec4-72ef-11e8-8367-ba9bcf88dc0b.PNG)
 
-**Assinatura de método**
+## Assinatura de método
 
 É formada pelo seu nome e pelo tipo, quantidade e ordem de seus parâmetros. 
 
-**Sobrecarga de método**
+## Sobrecarga de método
 
 Consiste em criarmos o mesmo método com possibilidades de entradas diferentes. Essas entradas, caracterizadas como parâmetros, devem sempre ser de tipos diferentes, quantidades de parâmetros diferentes ou posições dos tipos diferentes.
 
@@ -116,15 +116,15 @@ public class Calculadora {
 	}
 }
 ```
-**Escopo de classe**
+## Escopo de classe
 
 Refere-se aos limites de uma variável.
 
-**Escopo de objeto**
+## Escopo de objeto
 
 É o limite que um objeto pode manipular, enxergar, visualizar, ou acessar os seus atributos ou métodos dando ou não permissão.
 
-**Palavra reservada final**
+## Palavra reservada final
 
 Torna impossível estender uma classe, sobrepor um método ou reiniciar uma variável.
 
@@ -134,7 +134,7 @@ Exemplo:
 public final static int qtde_senha_padrao = 100;
 ```
 
-**Relacionamento de Dependência**
+## Relacionamento de Dependência
 
 Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe(método da classe).
 
@@ -142,7 +142,7 @@ Exemplo:
 
 ![dependencia](https://user-images.githubusercontent.com/40281699/41542345-1bf1d4ee-72eb-11e8-89ba-8e5ca737d525.PNG)
 
-**Relacionamento de Agregação** 
+## Relacionamento de Agregação
 
 Uma classe A agrega valores da outra classe B, relação todo parte, quando parte existe sem o todo(atributo classe).
 
@@ -151,6 +151,6 @@ Exemplo:
 ![agregacao](https://user-images.githubusercontent.com/40281699/41540458-b5768dd0-72e6-11e8-89b8-287c9f0ba842.PNG)
 
 
-**Relacionamento de Composição** 
+## Relacionamento de Composição
 
 Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo(atributo classe).	
