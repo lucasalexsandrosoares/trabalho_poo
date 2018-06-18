@@ -138,9 +138,13 @@ Exemplo:
 public final static int qtde_senha_padrao = 100;
 ```
 
-**Relacionamento de dependência**
+**Relacionamento de Dependência**
 
 Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe(método da classe).
+
+Exemplo:
+
+![dependencia](https://user-images.githubusercontent.com/40281699/41542345-1bf1d4ee-72eb-11e8-89ba-8e5ca737d525.PNG)
 
 **Relacionamento de Agregação** 
 
