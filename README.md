@@ -38,6 +38,14 @@ Determina se um objeto é a instância de uma classe, super classe ou interface.
 
 Exemplo:
 
+```java
+if(c instanceof Cachorro) {
+	System.out.println("é do tipo Cachorro");  
+}
+if(g instanceof Gato) {
+	System.out.println("é do tipo Gato");
+}
+```
 **Encapsulamento**
 
 **Palavra reservada this** 
