@@ -150,7 +150,7 @@ public final static int qtde_senha_padrao = 100;
 
 ## Relacionamento de Dependência
 
-Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe(método da classe).
+Uma classe A depende da outra classe B, ocorre quando usa o serviço da outra classe.
 
 Exemplo:
 
@@ -158,7 +158,7 @@ Exemplo:
 
 ## Relacionamento de Agregação
 
-Uma classe A agrega valores da outra classe B, relação todo parte, quando parte existe sem o todo(atributo classe).
+Uma classe A agrega valores da outra classe B, relação todo parte, quando parte existe sem o todo.
 
 Exemplo:
 
@@ -167,7 +167,7 @@ Exemplo:
 
 ## Relacionamento de Composição
 
-Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo(atributo classe).	
+Uma classe não existe sem o todo, relação todo parte,quando a parte não existe sem o todo.	
 
 Exemplo:
 
