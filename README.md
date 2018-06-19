@@ -169,4 +169,12 @@ Exemplo:
 
 ![composicao](https://user-images.githubusercontent.com/40281699/41564452-30e0b0d0-7329-11e8-84c2-1868a653eb3d.PNG)
 
+## Referências
+
+(https://pooperrotti.wikispaces.com/Assinatura+de+m%C3%A9todos)
+
+(http://www.nacaolivre.com.br/javascript/escopo-de-objeto-em-javascript/)
+
+(https://www.devmedia.com.br/o-que-significa-cada-palavra-reservada/8320)
+
 
