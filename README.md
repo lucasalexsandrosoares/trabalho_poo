@@ -50,6 +50,10 @@ if(g instanceof Gato) {
 
 É uma técnica de modelagem e implementação que separa os aspectos externos de um objeto dos detalhes internos de implementação do mesmo objeto. 
 
+Exemplo:
+
+![encapsulamento](https://user-images.githubusercontent.com/40281699/41624433-0eb0c2de-73ec-11e8-9dee-dbd35f9e91e3.PNG)
+
 ## Palavra reservada this
 
 Referência ao próprio objeto chamado.
