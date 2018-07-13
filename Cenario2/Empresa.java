@@ -1,5 +1,6 @@
-
-public class Empresa extends Pessoa {
+public class Empresa {
 	public String razaoSocial;
 	public String nomeFantasia;
+   
+  
 }

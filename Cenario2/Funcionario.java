@@ -1,6 +1,8 @@
+import java.util.Date;
 
-public class Funcionario extends Pessoa{
-	public int rg;
+public class Funcionario {
+
+public int rg;
 	public String sexo;
 	public int numeroDeRegistro;
 	public int numeroDaCarteiraDeTrabalho;
@@ -9,17 +11,11 @@ public class Funcionario extends Pessoa{
 	public String cargo;
 	public String turno;
 	public double salario;
-	
-	public void demitir(String departamento) {
-		
-	}
-	public void contratar(String departamento) {
-		
-	}
-	public void cadastrarCliente(String cargo) {
-		
-	}
-	public void cadastrarFornecedores(String cargo) {
-		
-	}
+  public String nome;
+	public String sobrenome;
+	public int cpf;
+	public String endereco;
+	public int telefone;
+	public String email;
+	public Date dataDeNascimento;
 }
