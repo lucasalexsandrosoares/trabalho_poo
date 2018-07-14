@@ -1,5 +1,4 @@
-
-public class Dvd extends Produtos {
+public class Dvd extends Produto {
 	public int duracao;
 	public String gravadora;
 
