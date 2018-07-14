@@ -15,7 +15,7 @@ public class CdMusica extends Produto{
       return Produtora;
     }
     public String toString(){
-      return "cd " + NumeroFaixas " produtora " + Produtora + " nome do produto " + nomeDoProduto + " tipo do produto " + tipoDoProduto;
+      return "cd " + NumeroFaixas + "\nprodutora: " + Produtora + "\nnome do produto: " + nomeDoProduto + "\ntipo do produto: " + tipoDoProduto;
     }
   
 }
