@@ -1,21 +1,21 @@
-public class CdMusica extends Produto{
-    public int NumeroFaixas;
-    public String Produtora;
 
-    public void setNumeroFaixas(int NumeroFaixas){
-        this.NumeroFaixas = NumeroFaixas;
+public class CdMusica extends Produto{
+	public int numeroFaixas;
+	public String produtora;
+
+    public void setNumeroFaixas(int numeroFaixas){
+        this.numeroFaixas = numeroFaixas;
     }
-    public void setProdutora(String Produtora){
-        this.Produtora = Produtora;
+    public void setProdutora(String produtora){
+        this.produtora = produtora;
     }
     public int getNumeroFaixas(){
-      return NumeroFaixas;
+      return numeroFaixas;
     }
     public String getProdutora(){
-      return Produtora;
+      return produtora;
     }
     public String toString(){
-      return "cd " + NumeroFaixas + "\nprodutora: " + Produtora + "\nnome do produto: " + nomeDoProduto + "\ntipo do produto: " + tipoDoProduto;
+    	return "tipo do produto: " + tipoDoProduto + "\nnome do produto: " + nomeDoProduto + "\ncd: " + numeroFaixas +  "\nprodutora: " + produtora;
     }
-  
 }
